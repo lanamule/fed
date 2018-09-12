@@ -1,0 +1,3 @@
+#Игнорируем install.txt
+gulpfile.js
+/dist
